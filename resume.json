@@ -22,7 +22,7 @@
     {
       "company": "ZSP3",
       "position": "Teacher",
-      "website": "ihttp://www.zsp3.wejher.pl/",
+      "website": "http://www.zsp3.wejher.pl/",
       "startDate": "2014-11-17",
       "endDate": "2015-08-31",
       "summary": "Teaching Html, CSS, JavaScript, Jquery"
@@ -30,8 +30,9 @@
     {
       "company": "ZSP3",
       "position": "Teacher",
-      "website": "http://www.zsp3.wejher.pl/",
-      "summary": "Teaching Html, CSS, JavaScript, Jquery"
+      "website": "http://www.sii.pl",
+      "startDate": "2013-04-01",
+      "summary": " Implementation and documentation of system components for Nordea Bank"
 
     }
 

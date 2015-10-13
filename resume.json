@@ -99,17 +99,15 @@
   ],
   "languages": [
     {
+      "language": "Polish",
+      "fluency": "Native speaker",
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "name": "Linux"
     }
   ],
   "references": [

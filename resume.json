@@ -3,8 +3,7 @@
     "name": "Marek Włodarczyk",
     "label": "Software Developer",
     "picture": "",
-    "email": "mrkwlo@gmail.com",
-    "phone": " ",
+    "email": "nauczyciel51@gmail.com",
     "summary": " Senior Software Developer  Specialties: Programming Informix(4gl), C++, Delphi, SQL Databases: Informix, Oracle, MongoDB",
 
     "location": {
@@ -28,31 +27,30 @@
       "summary": "Teaching Html, CSS, JavaScript, Jquery"
     },
     {
-      "company": "ZSP3",
-      "position": "Teacher",
+      "company": "SII",
+      "position": "Software Developer",
       "website": "http://www.sii.pl",
-      "startDate": "2013-04-01",
-      "summary": " Implementation and documentation of system components for Nordea Bank"
+      "startDate": "2013-04-15",
+      "endDate": "2013-07-14",
+      "summary": " Implementation and documentation of system components for Nordea Bank" 
+    },
 
-    }
-
-  ],
-
-
-
-  "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
+      "company": "7N",
+      "position": "Informix Software Developer",
+      "website": "http://www.7n.pl",
+      "startDate": "2013-04-15",
+      "endDate": "2013-07-14",
+      "summary": " Implementation and documentation of system components for Insurer " 
+     }
+
+
+
+
   ],
+
+
+
   "education": [
     {
       "institution": "University of Oklahoma",
@@ -78,20 +76,20 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Jquery"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Programming",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Informix(4gl)",
+        "SQL",
+        "Shell scripting",
+        "Delphi"
       ]
     }
   ],
@@ -110,13 +108,13 @@
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": " I know Marek to be a very open, reliable and friendly person. He has an ability to build relationships with other people. He is the best Informix Software Developer I've ever met. He is interested in new technologies. In addtion, he is a great team member."
+      "name": "Bartosz Kozak",
+      "reference": "I know Marek to be a very open, reliable and friendly person. He has an ability to build relationships with other people. He is the best Informix Software Developer I've ever met. He is interested in new technologies. In addtion, he is a great team member."
 
     },
 {
       "name": "Jarosław Cichoń",
-      "reference": " Marek is very ambitious developer, always willing to learn new things. His friendly attitude had good influence on the team. I wish him all the best in future challenges :) "
+      "reference": "Marek is very ambitious developer, always willing to learn new things. His friendly attitude had good influence on the team. I wish him all the best in future challenges :) "
 
 
 }
